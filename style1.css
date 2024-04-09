@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000000;
+    max-height: 100vh;
+    max-width: 100vw;
+    /* background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%); */
+    
+}
+
+.btn-1{
+    margin-right: 15%;
+}
+
+#d1{
+    color: rgb(40, 86, 236);
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 20%;
+    margin-left: 25%;
+
+
+}
