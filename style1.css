@@ -12,6 +12,13 @@ body{
     
 }
 
+
+@media only screen and (max-width:900px) {
+    .img1{
+        display: none;
+    }
+}
+
 .btn-1{
     margin-right: 15%;
 }
